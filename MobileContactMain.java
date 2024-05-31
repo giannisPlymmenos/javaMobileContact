@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch13.model;
+package com.mobilecontact;
 
 public class MobileContactMain {
 
